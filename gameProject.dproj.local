@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.585,D:\Documents\Embarcadero\Studio\Projects\2048\Unit1.pas=D:\Documents\Embarcadero\Studio\Projects\2048\Records.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\Documents\Embarcadero\Studio\Projects\2048\leaderboard.dfm=D:\Documents\Embarcadero\Studio\Projects\2048\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,D:\Documents\Embarcadero\Studio\Projects\2048\Unit3.dfm=D:\Documents\Embarcadero\Studio\Projects\2048\leaderadd.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,D:\Documents\Embarcadero\Studio\Projects\2048\game2048.pas=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.639,=D:\Documents\Embarcadero\Studio\Projects\2048\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,D:\Documents\Embarcadero\Studio\Projects\2048\game2048.dfm=D:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,D:\Documents\Embarcadero\Studio\Projects\2048\Unit3.pas=D:\Documents\Embarcadero\Studio\Projects\2048\leaderadd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=D:\Documents\Embarcadero\Studio\Projects\2048\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=D:\Documents\Embarcadero\Studio\Projects\2048\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\Documents\Embarcadero\Studio\Projects\2048\leaderboard.pas=D:\Documents\Embarcadero\Studio\Projects\2048\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,=D:\Documents\Embarcadero\Studio\Projects\2048\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=D:\Documents\Embarcadero\Studio\Projects\2048\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.784,D:\Documents\Embarcadero\Studio\Projects\2048\Records.pas=D:\Documents\Embarcadero\Studio\Projects\2048\records.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,D:\Documents\Embarcadero\Studio\Projects\2048\records.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,D:\Documents\Embarcadero\Studio\Projects\2048\gameProject.dproj=D:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,=D:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
